@@ -34,7 +34,7 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Pathra logo in Orange |   Pathr logo in White
+  Pathra logo in Orange |   Pathra logo in White
   :-------------------------: |  :-------------------------:
   ![Pathra Logo in Orange](https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1) |  ![Pathr Logo in White](https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1)
 
