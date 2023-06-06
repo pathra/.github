@@ -28,7 +28,7 @@ We kindly request that you review each of them before you start working on the r
   - LinkedIn: https://www.linkedin.com/company/pathra
   - Twitter: https://www.twitter.com/pathra_in
   - Mastodon: https://www.mastodon.social/@pathra
-  - Koo: https://www.kooapp.com/profile/pathra
+  - Koo: https://www.kooapp.com/profile/pathr
 
 > Note: We are only on above mentioned social platforms, and it is updated every minute.
 
