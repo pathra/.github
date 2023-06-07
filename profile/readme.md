@@ -34,10 +34,11 @@ We kindly request that you review each of them before you start working on the r
 
 #### Logo:
 
-  Pathra logo in Orange |   Pathra logo in White
+  Pathra logo in Orange (`#FF671F`) |   Pathra logo in White (`#FEFEFE`)
   :-------------------------: |  :-------------------------:
-  ![Pathra Logo in Orange](https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1) |  ![Pathr Logo in White](https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1)
+  ![Pathra Logo in Orange](https://github.com/pathra/.github/assets/68323012/2e602fbb-f3c3-4ee1-8a29-a9b6a7670cc1) |  ![Pathr Logo in White](https://github.com/pathra/.github/assets/68323012/d2fdf8a4-fc1e-4f8f-817a-47fb771d17c5)
 
-  Pathr alternate logo in Orange |   Pathr alternate logo in White
+
+  Pathr alternate logo in Orange (`#FF671F`) |   Pathr alternate logo in White (`#FEFEFE`)
   :-------------------------: |  :-------------------------:
-  ![Pathra Logo in Orange](https://github.com/pathra/.github/assets/68323012/06127b1a-bad2-4f7f-afa4-ba0acbd57907) |  ![Pathr Logo in White](https://github.com/pathra/.github/assets/68323012/06127b1a-bad2-4f7f-afa4-ba0acbd57907)
+  ![Pathra Logo in Orange](https://github.com/pathra/.github/assets/68323012/dc6d689b-c46c-40c5-aae6-2665877cb46c) |  ![Pathr Logo in White](https://github.com/pathra/.github/assets/68323012/ff1241d6-751d-4cde-965b-19f5bd7f08b6)
