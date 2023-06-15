@@ -25,6 +25,7 @@ We kindly request that you review each of them before you start working on the r
 
 #### Social:
   - Website: https://www.pathra.in
+  - Website: https://www.pathr.in
   - LinkedIn: https://www.linkedin.com/company/pathra
   - Twitter: https://www.twitter.com/pathra_in
   - Mastodon: https://www.mastodon.social/@pathra
